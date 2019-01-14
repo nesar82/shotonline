@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+    <head>
+        <title>FetchRSS.com OPML</title>
+        <dateCreated>Mon, 14 Jan 2019 15:34:58 +0000</dateCreated>
+    </head>
+    <body>
+        <outline title="NACHRICHTEN - Play Games at GamesCampus!" text="NACHRICHTEN - Play Games at GamesCampus!" description="Enjoy Free Online Games at GamesCampus! The Leading Game Portal for Free Online Sports, MMORPG, and FPS games. Our Games are 100% Addicting and 100% Free!" xmlUrl="http://fetchrss.com/rss/5c3cabfe8a93f8047a8b45675c3cabd88a93f865798b4567.xml" type="rss"/>
+
+    </body>
+</opml>
